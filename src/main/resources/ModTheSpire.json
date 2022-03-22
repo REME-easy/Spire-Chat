@@ -1,0 +1,10 @@
+{
+  "modid": "SpireChat",
+  "name": "SWF Chat Mod(联机聊天mod)",
+  "author_list": ["REME"],
+  "description": "使你可以在Spire With Friends中聊天。",
+  "version": "0.5",
+  "sts_version": "07-30-2020",
+  "mts_version": "3.15.0",
+  "dependencies": ["basemod", "chronoMods"]
+}
